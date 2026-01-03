@@ -4,7 +4,13 @@
 
 ###
 
-<h2 align="left">Hello There 👋</h2>
+### Hello There!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+  
+- 🔭 I am currently a computer science student majoring in software engineering at the Sumatra Institute of Technology
+- 🌱 I’m currently learning Web Development and Cyber Security
+- 💬 Ask me about The Witcher game and Stranger Things movie
+- 😄 Pronouns: He / Him
 
 ###
 
