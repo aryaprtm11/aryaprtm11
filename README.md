@@ -1,5 +1,5 @@
-### Hello There!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
+### Hello There!  <img src="[https://github.com/aryaprtm11/aryaprtm11/blob/main/asset/Hi.gif]" width="29px">
+![](https://komarev.com/ghpvc/?username=aryaprtm11&label=Profile%20Visits&color=blue&style=for-the-badge)
   
 - 🔭 I am currently a computer science student majoring in software engineering at the Sumatra Institute of Technology
 - 🌱 I’m currently learning Web Development and Cyber Security
